@@ -1,3 +1,10 @@
 head{
     background-color: rgb(194, 172, 238);
+    color:rgb(0, 0, 0);
+    text-align:center;
+}
+main{
+    background-color: rgb(0, 0, 0);
+    color:rgb(184, 173, 247);
+    text-align:center;
 }
